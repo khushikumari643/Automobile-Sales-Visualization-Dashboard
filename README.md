@@ -22,3 +22,14 @@ __Data Analysis__: Grouping and aggregating data to derive meaningful statistics
 Interactive Dashboard Development: Designing and implementing user interfaces with Dash components (Dropdown, HTML Divs, dcc.Graph).
 __Callback Mechanisms__: Implementing Dash callbacks to enable dynamic updates and interactivity between components.
 __Data Visualization__: Creating various chart types to convey insights effectively.
+
+
+__Working__
+
+## Install the requirements (dash>=2.17.0, plotly>=5.18.0, pandas>=2.0.0)
+Run: pip install -r requirements.txt
+
+## Automobile Sales Dashboard
+Run: python Automobile_dashboard.py
+Open: http://127.0.0.1:8050
+
