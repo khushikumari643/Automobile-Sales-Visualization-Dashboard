@@ -30,6 +30,6 @@ __Working__
 Run: pip install -r requirements.txt
 
 ## Automobile Sales Dashboard
-Run: python Automobile_dashboard.py
+Run: python Automobile_Dashboard.py
 Open: http://127.0.0.1:8050
 
